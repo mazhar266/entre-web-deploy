@@ -1,0 +1,53 @@
+{
+    "responseBody": {
+        "statusCode": "200",
+        "statusMessage": "Retrieve Successs",
+        "objectVal": {
+            "serviceProviderId": 11,
+            "name": "ram",
+            "password": "$MYHASH$V1$10000$Y+PaJ7FYjg1ndTdmywTm2WWPtBB9yFTX5snW57AXultgv5dy",
+            "email": "ramssaha@gmail.com",
+            "phone": 1212,
+            "address": 1212,
+            "industryName": 1,
+            "specializationName": 1,
+            "roleName": "Driver",
+            "tools": 12,
+            "priceForTools": 12,
+            "pricing": 12,
+            "area": 12,
+            "userId": 24,
+            "educationInfo": [
+                {
+                    "degreeName": "wewe",
+                    "institutionName": "wew",
+                    "startDate": "2021/07/23",
+                    "endDate": "2021/07/23",
+                    "description": "wewe"
+                }
+            ],
+            "workExperianceInfo": [
+                {
+                    "employment": "wewe",
+                    "startDate": "2021/07/23",
+                    "endDate": "2021/07/23",
+                    "company": "wewe",
+                    "duties": "wewe",
+                    "isEmploymentContinue": "false"
+                }
+            ],
+            "compitencyInfo": [
+                {
+                    "compitency": "wewe"
+                }
+            ],
+            "permissionInfo": [
+                {
+                    "permissionType": "we",
+                    "permissionSubType": "wew",
+                    "validDate": "0001/01/01"
+                }
+            ]
+        }
+    }
+}

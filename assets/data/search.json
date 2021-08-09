@@ -1,0 +1,32 @@
+{
+    "responseBody": {
+        "statusCode": "200",
+        "statusMessage": "Data retrived",
+        "objectVal": [
+            {
+                "name": "asif",
+                "email": "asif@gmail.com",
+                "phone": "0191",
+                "deliveryMethod": "Biking",
+                "estimatedTime": "00:10:00",
+                "price": 12.5
+            },
+            {
+                "name": "asifmahamud",
+                "email": "asif@gmail.com",
+                "phone": "0191",
+                "deliveryMethod": "Biking",
+                "estimatedTime": "00:9:00",
+                "price": 13.5
+            },
+            {
+                "name": "asifmahamud2",
+                "email": "asif@gmail.com",
+                "phone": "0191",
+                "deliveryMethod": "Biking",
+                "estimatedTime": "00:15:00",
+                "price": 11.5
+            }
+        ]
+    }
+}

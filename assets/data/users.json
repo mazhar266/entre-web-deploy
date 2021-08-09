@@ -1,0 +1,19 @@
+{
+    "responseBody": {
+        "statusCode": "200",
+        "statusMessage": "Retrieve success",
+        "objectVal": {
+            "id": 1,
+            "userName": "alif",
+            "mobileNo": "01877007226",
+            "name": "asif",
+            "email": "asif231@gmail.com",
+            "phone": "0191",
+            "address": "12",
+            "socialSecurityNo": "213",
+            "vatId": "13",
+            "picture": null,
+            "deliveryMethod": "Driving"
+        }
+    }
+}
